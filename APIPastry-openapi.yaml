@@ -46,7 +46,7 @@ paths:
           description: Get list of pastries
       operationId: GetPastries
       summary: Get list of pastries
-  /pastry/{name}:
+  /pastry/{kuchbhi}:
     summary: Specific operation on pastry
     get:
       parameters:
